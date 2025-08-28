@@ -92,6 +92,7 @@ body {
   position: relative;
   height: 580px;
   margin-bottom: 5px;
+  overflow: hidden;
 }
 
 .row-2-container {
@@ -132,7 +133,7 @@ body {
 .barbell-image {
   position: absolute;
   width: 80%;
-  min-width: 800px;
+  min-width: auto;
 }
 
 .barbell-img-2 {
