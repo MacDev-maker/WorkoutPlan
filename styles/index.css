@@ -90,7 +90,7 @@ body {
 
 .row {
   position: relative;
-  height: 580px;
+  height: auto;
   margin-bottom: 5px;
 }
 
