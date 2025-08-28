@@ -133,6 +133,7 @@ body {
   position: absolute;
   width: 80%;
   min-width: 800px;
+  height: auto;
 }
 
 .barbell-img-2 {
