@@ -224,6 +224,13 @@ body {
   margin-left: 2%;
 }
 
+@media (max-width: 768px) {
+  .options-header {
+    font-size: 48px;
+    text-align: center;
+  }
+}
+
 .existing-plans-container {
   /* position: absolute;
   left: 25%;

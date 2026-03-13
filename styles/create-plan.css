@@ -51,6 +51,16 @@ body {
   font-weight: 500;
 }
 
+@media (max-width: 768px) {
+  .js-schedule-week {
+    flex-direction: column; 
+  }
+  .row {
+    width: 100%; 
+    height: auto;
+  }
+}
+
 .js-save {
   /* display:inline-block;
   margin-left: 90%;  */
